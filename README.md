@@ -4,7 +4,7 @@ This project investigates **health insurance coverage in the United States** and
 
 ## About the Project
 
-The dataset `health-insurance.csv` contains **8,802 observations** and several variables related to individuals’ demographics, employment, and insurance coverage.  
+The dataset `health-insurance.csv` contains **8,802 observations** and several variables related to individuals’ demographics, employment, and insurance coverage.  https://rdrr.io/cran/AER/man/HealthInsurance.html
 
 **Key variables analyzed in this project include:**
 
